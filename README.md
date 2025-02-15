@@ -28,7 +28,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Product Peformance**
 - **Sales Trends**
 
-  These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+These insights empower stakeholders with key business metrics, enabling strategic decision-making.
   ---
  
 ## License 
@@ -36,4 +36,4 @@ Develop SQL-based analytics to deliver detailed insights into:
 This project is licensed under the [MIT LICENSE](LICENSE).You are free to use, modify, and share the project with proper attribution.
 
 ## About Me 
-Hello there! I'm **Samivulla Khan**, I'm a Data Analyst on a mission to share knowledge enjoying and engaging!
+Hello there! I'm **Samivulla Khan**, I'm a Data Analyst on a mission to share knowledge and make working with data enjoyable and engaging!
